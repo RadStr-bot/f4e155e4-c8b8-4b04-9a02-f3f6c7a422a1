@@ -1,2 +1,5 @@
-# f4e155e4-c8b8-4b04-9a02-f3f6c7a422a1
-Auto-generated repository to test Dataspecer connection
+# This repository is connected to [Dataspecer online tool](http://localhost:5174)
+
+Every commit to main generates documentation from the committed data specification. The documentation is generated into the "publication-branch" branch.
+
+Each commit into the "publication-branch" is deployed using GitHub pages.
